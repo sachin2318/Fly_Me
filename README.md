@@ -5,8 +5,8 @@ This is a StarApps Studio Fly me code solution, created by and maintained by [sa
 ## Installation
 
 ```bash
-git clone https://github.com/sachin2318/Customize_Umbrella.git
-cd Customize_Umbrella
+git clone https://github.com/sachin2318/Fly_Me.git
+cd Fly_Me
 ```
 
 ## Running locally
